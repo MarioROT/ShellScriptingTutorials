@@ -1,4 +1,4 @@
-#!bin/sh
+#!/bin/sh
 MY_MESSAGE="Hello World"
 echo $MY_MESSAGE
 # In schell scripting there is no syntactic difference between:
