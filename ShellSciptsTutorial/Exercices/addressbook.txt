@@ -1,0 +1,13 @@
+# -------------- Addressbook
+Naty Sanchez:123456789:natysp@email.com
+Ruben Martinez:987654321:rme@email.com
+emb@email.com:321654987:Emmanuel Maqueda
+Sergio Borjon:987321654:serge@email.com
+Armando Tecno:1593576482:armand@email.com
+Mario Rosas:5566441122:mro@email.com
+Ernys Tecno:8745129:erny@email.com
+Carlos Tecno:987654321:charly@email.com
+Richi Tecno:5544112233:richi@email.com
+Roberto Tecno:487931546:rob@email.com
+Ernesto Tecno:32145875:et@email.com
+#-#

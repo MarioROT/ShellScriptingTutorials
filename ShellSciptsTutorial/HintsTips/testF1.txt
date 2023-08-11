@@ -1,0 +1,4 @@
+
+This line is okay.
+This line contains a bad word. Treat with care.
+This line is fine, too.

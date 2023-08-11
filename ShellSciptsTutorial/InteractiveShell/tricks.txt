@@ -1,0 +1,26 @@
+ * Bash
+ - If you press Ctrl + r you can do a search of the past commands you used in a reverse-search
+ - repeat the a comand you ran before
+ Example:
++-------------------------------------------------+
+| bash$ ls /tmp                                   |
+| (list of files in /tmp)                         |
+| bash$ touch /tmp/foo                            |
+| bash$ !l                                        |
+| ls /tmp                                         |
+| (list of files in /tmp, now including /tmp/foo) |
++-------------------------------------------------+
+
+* ksh
+- Start ksh session from another interactive shell
++-------------------------------------------------+
+| csh% # oh no, it's csh!                         |
+| csh% ksh                                        |
+| ksh$ # phew, that's better                      |
+| ksh$ # do some stuff under ksh                  |
+| ksh$ # then leave it back at the csh prompt:    |
+| ksh$ exit                                       |
+| csh%                                            |
++-------------------------------------------------+
+
+
